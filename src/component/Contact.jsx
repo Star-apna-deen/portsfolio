@@ -21,7 +21,7 @@ function Contact() {
 
         } catch (error) {
             console.log(error);
-            toast.error('Something event wrong')
+            toast.error('Something event wrong');
         }
     };
 
